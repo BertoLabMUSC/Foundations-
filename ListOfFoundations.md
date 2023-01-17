@@ -9,6 +9,7 @@ Foundations for neurodevelopmental disorders (NDDs)
 [https://rare-x.org/](https://rare-x.org/)
 [https://www.autismeurope.org/](https://www.autismeurope.org/)
 [https://www.autismspeaks.org/](https://www.autismspeaks.org/)
+[https://www.simonssearchlight.org/](https://www.simonssearchlight.org/)
 
 ## Geni legati a NDD e la loro fondazione
 
@@ -134,8 +135,8 @@ Foundations for neurodevelopmental disorders (NDDs)
 | GIGYF2   |                                                                                                                                                                                                                                          |
 | GNAI1    |                                                                                                                                                                                                                                          |
 | GNB2     |                                                                                                                                                                                                                                          |
-| GRIA2    |                                                                                                                                                                                                                                          |
-| GRIA3    | https://curegrin.org/gria-disorder/                                                                                                                                                                                                      |
+| GRIA2    | https://curegrin.org/                                                                                                                                                                                                                                        |
+| GRIA3    | https://curegrin.org/                                                                                                                                                                                                     |
 | GRIN1    | https://curegrin.org/                                                                                                                                                                                                                    |
 | GRIN2A   | https://curegrin.org/                                                                                                                                                                                                                    |
 | GRIN2B   | https://curegrin.org/                                                                                                                                                                                                                    |
