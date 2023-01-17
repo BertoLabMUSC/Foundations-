@@ -3,10 +3,14 @@ Foundations for neurodevelopmental disorders (NDDs)
 
 ## Risorse generali per Autismo e NDD
 [https://www.sfari.org](https://www.sfari.org)
+[https://rarediseases.org/rare-diseases/](https://rarediseases.org/rare-diseases/)
+[https://dbd.geisingeradmi.org/](https://dbd.geisingeradmi.org/)
+[https://sparkforautism.org/](https://sparkforautism.org/)
+[https://rare-x.org/](https://rare-x.org/)
+[https://www.autismeurope.org/](https://www.autismeurope.org/)
+[https://www.autismspeaks.org/](https://www.autismspeaks.org/)
 
-
-
-## Strong candidate genes and their foundation
+## Geni legati a NDD e la loro fondazione
 
 | Gene     | Foundation                                                                                                                                                                                                                               |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,8 +55,8 @@ Foundations for neurodevelopmental disorders (NDDs)
 | CACNA1C  | https://timothysyndrome.org/                                                                                                                                                                                                             |
 | CACNA1E  |                                                                                                                                                                                                                                          |
 | CACNA2D3 |                                                                                                                                                                                                                                          |
-| CAMK2A   |                                                                                                                                                                                                                                          |
-| CAMK2B   |                                                                                                                                                                                                                                          |
+| CAMK2A   | https://www.camk2.org/                                                                                                                                                                                                                                          |
+| CAMK2B   | https://www.camk2.org/                                                                                                                                                                                                                                         |
 | CAPRIN1  |                                                                                                                                                                                                                                          |
 | CASK     | https://www.caskgene.org/                                                                                                                                                                                                                |
 | CASZ1    |                                                                                                                                                                                                                                          |
@@ -64,7 +68,7 @@ Foundations for neurodevelopmental disorders (NDDs)
 | CELF2    |                                                                                                                                                                                                                                          |
 | CELF4    |                                                                                                                                                                                                                                          |
 | CEP290   |                                                                                                                                                                                                                                          |
-| CHAMP1   | [https://champ1foundation.org](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJisegq8z8AhUoHUQIHXHaAisQFnoECB0QAQ&url=https%3A%2F%2Fchamp1foundation.org%2F&usg=AOvVaw2oOMwwX53Tx4FL78JzWV_5) |
+| CHAMP1   | [https://champ1foundation.org](https://champ1foundation.org) |
 | CHD1     |                                                                                                                                                                                                                                          |
 | CHD2     | [https://www.curechd2.org](https://www.curechd2.org/)                                                                                                                                                                                    |
 | CHD3     | https://www.chd3.org                                                                                                                                                                                                                     |
