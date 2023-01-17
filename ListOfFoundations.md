@@ -7,10 +7,15 @@ Foundations for neurodevelopmental disorders (NDDs)
 [https://rarediseases.org/rare-diseases/](https://rarediseases.org/rare-diseases/)
 
 [https://dbd.geisingeradmi.org/](https://dbd.geisingeradmi.org/)
+
 [https://sparkforautism.org/](https://sparkforautism.org/)
+
 [https://rare-x.org/](https://rare-x.org/)
+
 [https://www.autismeurope.org/](https://www.autismeurope.org/)
+
 [https://www.autismspeaks.org/](https://www.autismspeaks.org/)
+
 [https://www.simonssearchlight.org/](https://www.simonssearchlight.org/)
 
 ## Geni legati a NDD e la loro fondazione
