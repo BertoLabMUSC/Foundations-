@@ -3,7 +3,9 @@ Foundations for neurodevelopmental disorders (NDDs)
 
 ## Risorse generali per Autismo e NDD
 [https://www.sfari.org](https://www.sfari.org)
+
 [https://rarediseases.org/rare-diseases/](https://rarediseases.org/rare-diseases/)
+
 [https://dbd.geisingeradmi.org/](https://dbd.geisingeradmi.org/)
 [https://sparkforautism.org/](https://sparkforautism.org/)
 [https://rare-x.org/](https://rare-x.org/)
