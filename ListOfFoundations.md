@@ -1,11 +1,8 @@
 Foundations for neurodevelopmental disorders (NDDs)
 ==========================
 
-## Important general databases for NDD
-| Intento | Sito |
-
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autismo e NDD | [https://www.sfari.org](https://www.sfari.org) | 
+## Risorse generali per Autismo e NDD
+[https://www.sfari.org](https://www.sfari.org)
 
 
 
